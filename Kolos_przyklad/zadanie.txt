@@ -1,0 +1,3 @@
+1. Proszę napisać funkcję, która przyjmuje wskaźnik na int (do tablicy 10 elementowej), oraz int (wyraz startowy). Funkcja wypełnia tablicę elementami zaczynając od powtórzenia wyrazów startowych a następnie kolejny wyraz to suma poprzednich wyrazów. (20 pkt)
+2. Proszę napisać kod wyświetlający działanie funkcji, zawartość tablicy przed i po działaniu funkcji (10 pkt)
+3. Proszę zmienić działanie funkcji tak, żeby rezerwowała pamięć oraz posiadała parametr int (długość), który definiuje długość tablicy. Proszę odpowiednio skorygować funkcję wyświetlającą (20 pkt) 

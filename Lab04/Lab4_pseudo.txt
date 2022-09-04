@@ -1,0 +1,11 @@
+Do i = 1 to 100 
+	set p to true
+	If i is divisible by 3
+		print "Fizz"
+		set p to false
+	If i is divisible by 5
+		print "Buzz" 
+		set p to false
+	If p
+		print i
+	print a newline
